@@ -1,1 +1,0 @@
-The LJ Speech Dataset: https://keithito.com/LJ-Speech-Dataset/

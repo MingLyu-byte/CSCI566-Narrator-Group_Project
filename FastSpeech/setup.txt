@@ -1,3 +1,0 @@
-
-Refer to https://github.com/xcmyz/FastSpeech
-1. Need external files: LJSpeech dataset and Nvidia pretrained waveglow model
