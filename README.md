@@ -1,4 +1,6 @@
 # CSCI566-Narrator-Group-Project
+This repository is forked from [xcmyz's implementation]((https://github.com/xcmyz/FastSpeech)) and updates the model by
+incorporating a neural discriminator to implement an Alpha GAN architecture. 
 
 ## Prepare Dataset and Models
 1. Download and unzip [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
@@ -22,6 +24,6 @@ Run `python3 train.py`.
 ## Plot Training Curves
 Run `python3 plot.py`
 
-### References
+### Paper
 - [FastSpeech Paper](https://arxiv.org/abs/1905.09263)
-- [Code Forked From](https://github.com/xcmyz/FastSpeech)
+- [Alpha GAN Paper](https://arxiv.org/abs/1807.10088)
