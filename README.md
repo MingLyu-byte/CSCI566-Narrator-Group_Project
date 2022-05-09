@@ -22,6 +22,6 @@ Run `python3 train.py`.
 ## Plot Training Curves
 Run `python3 plot.py`
 
-### Paper
-- [FastSpeech](https://arxiv.org/abs/1905.09263)
-- [Forked from](https://github.com/xcmyz/FastSpeech)
+### References
+- [FastSpeech Paper](https://arxiv.org/abs/1905.09263)
+- [Code Forked From](https://github.com/xcmyz/FastSpeech)
